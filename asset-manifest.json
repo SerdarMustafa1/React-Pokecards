@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Pokecards/static/css/main.0ee7613d.chunk.css",
+    "main.js": "/React-Pokecards/static/js/main.18af6aee.chunk.js",
+    "main.js.map": "/React-Pokecards/static/js/main.18af6aee.chunk.js.map",
+    "runtime~main.js": "/React-Pokecards/static/js/runtime~main.cbd4ccaf.js",
+    "runtime~main.js.map": "/React-Pokecards/static/js/runtime~main.cbd4ccaf.js.map",
+    "static/js/2.6408f43b.chunk.js": "/React-Pokecards/static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/React-Pokecards/static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/React-Pokecards/index.html",
+    "precache-manifest.2460aa7db914415c14c23fc356ca009f.js": "/React-Pokecards/precache-manifest.2460aa7db914415c14c23fc356ca009f.js",
+    "service-worker.js": "/React-Pokecards/service-worker.js",
+    "static/css/main.0ee7613d.chunk.css.map": "/React-Pokecards/static/css/main.0ee7613d.chunk.css.map"
+  }
+}
